@@ -18,7 +18,7 @@ jobs:
 
     - name: Release
       uses: cycjimmy/semantic-release-action@v2
-      #run: yarn semantic-release
+      #run: yarn semantic-release  
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
       if: github.event_name == 'push'

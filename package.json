@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
-  "scripts": {},
+  "scripts": {
+    "semantic-release": "npx semantic-release"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/devaradhanm/sample-action.git"

@@ -1,0 +1,25 @@
+{
+    "name": "sample-action",
+    "version": "1.0.0",
+    "description": "",
+    "main": "dist/index.js",
+    "scripts": {
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/devaradhanm/sample-action.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/devaradhanm/sample-action/issues"
+    },
+    "homepage": "https://github.com/devaradhanm/sample-action/#readme",
+    "devDependencies": {
+    },
+    "dependencies": {
+        "@actions/core": "^1.2.2",
+        "@actions/github": "^2.1.0",
+    }
+}

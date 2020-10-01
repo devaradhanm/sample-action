@@ -19,7 +19,7 @@
   "homepage": "https://github.com/devaradhanm/sample-action/#readme",
   "devDependencies": {},
   "dependencies": {
-    "@actions/core": "^1.2.2",
+    "@actions/core": "^1.2.6",
     "@actions/github": "^2.1.0",
     "semantic-release": "^17.0.3"
   },
